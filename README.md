@@ -1,5 +1,7 @@
 # fact_checking_program
 
+![Design](https://github.com/kevinclee26/fact_checking_program/blob/master/image/github/image_1.png)
+
 Ratings
 * False - the primary claim(s) of the content are factually inaccurate. 
 * Partly False - the claim(S) of the content are a mix of accurate and inaccurate, or the primary claim is misleading or incomplete. 
