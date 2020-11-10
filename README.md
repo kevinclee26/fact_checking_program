@@ -34,3 +34,11 @@ ANN types: 
 * LSTM models
 * multi-layer perceptions
 * new approach uses transformers - GPT-2 and Meena. unsupervised learning so does not require the time and labor intensive data-labeling work
+
+Alternative Approach: 
+1. retriving documents from a variety of sources that might either support or contradict a claim
+2. detecting the stance of each article
+3. assessing the reputation and therefore the trustworthiness of each article
+4. claim verification, which evaluates both stance of the article and reputation of the source to establish how truthful the claim is
+
+Stance detection
